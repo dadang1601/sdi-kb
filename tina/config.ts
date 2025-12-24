@@ -22,7 +22,7 @@ export default defineConfig({
     collections: [
       {
         name: "docs",
-        label: "Documentation",
+        label: "Documentation V1",
         path: "docs",
         format: "mdx",
         fields: [
